@@ -2,7 +2,7 @@
 title: CBA Consult
 sections:
   - type: hero_section
-    title: 'The Process '
+    title: The Standard Operating Procedures
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
